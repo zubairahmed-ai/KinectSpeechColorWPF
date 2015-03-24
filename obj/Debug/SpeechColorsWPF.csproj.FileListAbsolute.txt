@@ -1,0 +1,21 @@
+e:\users\zubairdotnet\documents\visual studio 2013\Projects\SpeechColorsWPF\bin\Debug\SpeechColorsWPF.exe
+e:\users\zubairdotnet\documents\visual studio 2013\Projects\SpeechColorsWPF\bin\Debug\SpeechColorsWPF.pdb
+e:\users\zubairdotnet\documents\visual studio 2013\Projects\SpeechColorsWPF\obj\Debug\SpeechColorsWPF.csprojResolveAssemblyReference.cache
+e:\users\zubairdotnet\documents\visual studio 2013\Projects\SpeechColorsWPF\obj\Debug\MainWindow.baml
+e:\users\zubairdotnet\documents\visual studio 2013\Projects\SpeechColorsWPF\obj\Debug\MainWindow.g.cs
+e:\users\zubairdotnet\documents\visual studio 2013\Projects\SpeechColorsWPF\obj\Debug\App.g.cs
+e:\users\zubairdotnet\documents\visual studio 2013\Projects\SpeechColorsWPF\obj\Debug\SpeechColorsWPF_MarkupCompile.cache
+e:\users\zubairdotnet\documents\visual studio 2013\Projects\SpeechColorsWPF\obj\Debug\SpeechColorsWPF.g.resources
+e:\users\zubairdotnet\documents\visual studio 2013\Projects\SpeechColorsWPF\obj\Debug\SpeechColorsWPF.Properties.Resources.resources
+e:\users\zubairdotnet\documents\visual studio 2013\Projects\SpeechColorsWPF\obj\Debug\SpeechColorsWPF.csproj.GenerateResource.Cache
+e:\users\zubairdotnet\documents\visual studio 2013\Projects\SpeechColorsWPF\obj\Debug\SpeechColorsWPF.exe
+e:\users\zubairdotnet\documents\visual studio 2013\Projects\SpeechColorsWPF\obj\Debug\SpeechColorsWPF.pdb
+e:\users\zubairdotnet\documents\visual studio 2013\Projects\SpeechColorsWPF\bin\Debug\SpeechColorsWPF.exe.config
+e:\users\zubairdotnet\documents\visual studio 2013\Projects\SpeechColorsWPF\bin\Debug\Microsoft.Kinect.dll
+e:\users\zubairdotnet\documents\visual studio 2013\Projects\SpeechColorsWPF\bin\Debug\Microsoft.Kinect.xml
+C:\SpeechColorsWPF\bin\Debug\SpeechColorsWPF.exe.config
+C:\SpeechColorsWPF\obj\Debug\SpeechColorsWPF.exe
+C:\SpeechColorsWPF\obj\Debug\SpeechColorsWPF.pdb
+E:\Users\zubairdotnet\Documents\GitHub\KinectSpeechColorWPF\bin\Debug\SpeechColorsWPF.exe.config
+E:\Users\zubairdotnet\Documents\GitHub\KinectSpeechColorWPF\obj\Debug\SpeechColorsWPF.exe
+E:\Users\zubairdotnet\Documents\GitHub\KinectSpeechColorWPF\obj\Debug\SpeechColorsWPF.pdb
